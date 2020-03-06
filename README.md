@@ -12,6 +12,12 @@ it uses:
 ## Installing dependecies
 Install dependencies using ``` pip3 install requirment.txt ```
 
+## Making it work
+please make these directories
+- trimmed
+- scenesplitted
+- output
+
 ## An Example Scenario
 we get an video and load it with cv2, then we extract all of the frames in it, checking
 for face existion will happen every fps/2 in video (eg for a 30 fps video we check every
