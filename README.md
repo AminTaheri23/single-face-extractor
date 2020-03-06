@@ -33,10 +33,10 @@ and need to have a 'trimmed' dir for input videos
 all of them in script folder!
 
 
-# TODO : 
-[] fix creating extensive small sized unused clips
-[] add args for calling from terminal
-[] extrac frames with FFMPEG instead of open cv
-[] enhance speed of algorithm
-	----[] fine tune scene detection
-	----[] over all enhancing
+# TODO: 
+-[] fix creating extensive small sized unused clips
+-[] add args for calling from terminal
+-[] extrac frames with FFMPEG instead of open cv
+-[] enhance speed of algorithm
+-[] fine tune scene detection
+-[] over all enhancing
