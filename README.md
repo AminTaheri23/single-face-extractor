@@ -1,4 +1,4 @@
-# single-face-extractor (Tak nafar generator)
+# Single Face Extractor (Tak nafar generator)
 this script will get a video from a folder 'trimmed' and generates video  clips that there is only one face 
 The main file name is: alltogether.py 
 
@@ -9,8 +9,10 @@ it uses:
 2. RetinaFace (for face detection on frames),
 3. scenedetect (for detecting scene and divide them)
 
+## Installing dependecies
+Install dependencies using ``` pip3 install requirment.txt ```
 
-# An Example Scenario
+## An Example Scenario
 we get an video and load it with cv2, then we extract all of the frames in it, checking
 for face existion will happen every fps/2 in video (eg for a 30 fps video we check every
  15 frames). we divide clips here, then we run Scene Detection to make sure that in every
@@ -23,17 +25,17 @@ and we have a cut and then we have a zoomed scene on Ms.Ghoreyshi's face. our al
 divide thsis into 2 clips.)
 
 
-# Performance
+## Performance
 a 30 min clip for this script will have a time of 20 minutes or less on a core i7 (4 x 4.0 Ghz) cpu 
 
 
-# Attention
+## Attention
 need to make 'output' and 'scenesplitted' dirs for output videos 
 and need to have a 'trimmed' dir for input videos
 all of them in script folder!
 
 
-# TODO: 
+## TODO: 
 - [x] smiling
 - [ ] fix creating extensive small sized unused clips
 - [ ] add args for calling from terminal
