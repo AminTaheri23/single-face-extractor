@@ -39,7 +39,7 @@ and need to have a 'trimmed' dir for input videos
 all of them in script folder!
 
 ## Thanks and appreciations
-Thanks to [Shenasa-ai.ir](Shenasa-ai) and Alireza Akhavanpour and Bahar Baradaran for their sincier contributions.
+Thanks to [Shenasa-ai.ir](Shenasa-ai.ir) and Alireza Akhavanpour and Bahar Baradaran for their sincier contributions.
 
 ## TODO: 
 - [ ] add direcories by script (not manual)
