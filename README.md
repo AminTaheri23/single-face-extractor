@@ -30,16 +30,16 @@ that Mr golzar having a Conversation wih Sahar Ghoreyshi, camera is zoomed at Mr
 and we have a cut and then we have a zoomed scene on Ms.Ghoreyshi's face. our algorithm should
 divide thsis into 2 clips.)
 
-
 ## Performance
 a 30 min clip for this script will have a time of 20 minutes or less on a core i7 (4 x 4.0 Ghz) cpu 
-
 
 ## Attention
 need to make 'output' and 'scenesplitted' dirs for output videos 
 and need to have a 'trimmed' dir for input videos
 all of them in script folder!
 
+## Thanks and appreciations
+Thanks to Shenasa-ai.ir and Alireza Akhavanpour and Bahar Baradaran for their sincier contributions.
 
 ## TODO: 
 - [ ] add direcories by script (not manual)
