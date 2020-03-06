@@ -34,6 +34,7 @@ all of them in script folder!
 
 
 # TODO: 
+- [x] smiling
 - [] fix creating extensive small sized unused clips
 - [] add args for calling from terminal
 - [] extrac frames with FFMPEG instead of open cv
